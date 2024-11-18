@@ -47,7 +47,7 @@ function App() {
       <Box sx={{ padding: '20px' }}>
         {activeTab === 0 && (
           <Typography variant="h6" component="div">
-            Welcome to the Car Site App !
+            Welcome to the Car Site App!
           </Typography>
         )}
 
